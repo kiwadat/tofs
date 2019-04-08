@@ -1,0 +1,157 @@
+# ---------- Training Data(訓練データ) ----------
+# Japanese-Style(和風)
+0001,cp,Japanese,Chiken and Egg Rice Bowl(鶏もも肉親子丼),5450423
+0002,cp,Japanese,Udon noodles with Deep fried Tofu(きつねうどん),5354974
+0003,cp,Japanese,Clear Soup with Kamaboko fish cakes(かまぼこのお吸い物),5440394
+0004,cp,Japanese,Yuzu Petter Pasta with Pork Cabbege(豚肉とキャベツのゆず胡椒和風パスタ),5402300
+0005,cp,Japanese,Beef and Potato Stew(肉じゃが),5467686
+0006,cp,Japanese,Soy-Marinated Tuna Rice Bowl(マグロの漬け丼),5433554
+0007,cp,Japanese,Japanese Stew hamburger(和風煮込みハンバーグ),5348438
+0008,cp,Japanese,Japanese Appetizer with Chinese yam and Umeboshi(salt picked plums)(長芋と梅干しのおつまみ),5536494
+0009,cp,Japanese,Wasabi Dressing(わさび醤油和風ドレッシング),5354638
+0010,cp,Japanese,Ponzu Sauce(ポン酢風味和風ドレッシング),5079835
+0011,cp,Japanese,Beef and Potato Stew(肉じゃが),5514891
+0012,cp,Japanese,Simmered Taro(里芋の煮物),5391208
+0013,cp,Japanese,Simmered Taro(里芋の煮物),5488781
+0014,cp,Japanese,Sauteed and simmered burdock root(きんぴらごぼう),5519817
+0015,cp,Japanese,Seasoned Rice with vegetables(秋のかやくご飯),4778416
+0016,cp,Japanese,Simmered Flounder(カレイの煮付け),5521220
+0017,cp,Japanese,Ginger Pork(生姜焼き),5347183
+0018,cp,Japanese,Fishcake and vegetable stew(おでん),3088812
+0019,cp,Japanese,Kansai style Seasoned Rice(関西風かやくご飯),1410234
+0020,cp,Japanese,Chiken and Egg Rice Bowl(八方だしで親子丼),5439132
+0021,cp,Japanese,Pork and Vegetable Soup(豚汁),5396323
+0022,cp,Japanese,Grated yam rice with Tuna sashimi(マグロの麦とろごはん),2381815
+0023,cp,Japanese,Miso Soup with Vegetable(大根ときざみ揚げのお味噌汁),5439132
+0024,cp,Japanese,Sumo Wresler's Hot Pot(ちゃんこ鍋),5485511
+0025,cp,Japanese,Yellowtail Teriyaki(ぶりの照り焼き),5562836
+
+# Chinese-Style(中華風)
+1001,cp,Chinese,Chinese Hot Pot(一人鍋、中華風),4882532
+1002,cp,Chinese,Chinese Soup with Egg(もやしと卵の中華風スープ),5352876
+1003,cp,Chinese,Chinese Soup with Potato noodle(鶏だんごと春雨の中華風スープ),5239427
+1004,cp,Chinese,Chinese Hot Pot with Scallop(帆立と白菜の中華風クリーム鍋),5323647
+1005,cp,Chinese,Chinese Hot Pot with Chicken(中華風鶏白菜鍋),4285210
+1006,cp,Chinese,Chinese Hot Pot with Garlic(にんにくたっぷり中華風鍋),5044433
+1007,cp,Chinese,Chinese Hot Pot with Pork(豚バラもやしの中華風鍋),4967130
+1008,cp,Chinese,Chinese Hot Pot with Salmon(鮭と白菜のピリ辛中華風鍋,4697221
+1009,cp,Chinese,Potato Noodle Salad(中華風春雨サラダ),5428526
+1010,cp,Chinese,Chinese Salad with Cucumber(きゅうりとツナとわかめの中華サラダ),5414222
+1011,cp,Chinese,Sichuan style Shrimp(エビチリ四川風),5487330
+1012,cp,Chinese,Chop Suey(八宝菜),5465046
+1013,cp,Chinese,Xiao Long Bao(小笼包:Xiǎo lóng bāo),5352449
+1014,cp,Chinese,Sweet and Sour Pork(酢豚)(糖醋猪肉:Táng cù zhūròu),4616977
+1015,cp,Chinese,Fried Rice(炒饭:Chǎofàn),5567388
+1016,cp,Chinese,Mapo Doufu(麻婆豆腐: mápó dòufu),5562752
+1017,cp,Chinese,Dan dan nooldes(担担面:Dàndàn miàn),5539375
+1018,cp,Chinese,Green pepper shredded pork(青椒肉丝:Qīngjiāo ròu sī),5522961
+1019,cp,Chinese,Green pepper shredded pork(青椒肉絲),5019536
+1020,cp,Chinese,Bean sprouts Salad(もやしとかいわれの中華サラダ),5562551
+1021,cp,Chinese,Potato Noodle Salad(中華風春雨サラダ),5238096
+1022,cp,Chinese,Zhacai Soup(椎茸とザーサイのスープ),5500889
+1023,cp,Chinese,Chinese Porridge(中華粥),5566058
+1024,cp,Chinese,Mapo Doufu(麻婆豆腐),5440807
+1025,cp,Chinese,Chinese Pot-au-feu(スペアリブの中華風煮込み),5406731
+
+# Spanish-Style(スペイン風)
+2001,cp,Spanish,Spanish Omelette(スパニッシュオムレツ),2608640
+2002,cp,Spanish,Spanish Pot-au-feu(スペイン風ポトフ)(cocido madrileño),4248829
+2003,cp,Spanish,Spiced Chickpea Stew(ひよこ豆とチョリソのシチュー)(cocido),3687223
+2004,cp,Spanish,Spicy Rice Porridge(スペイン風スパイシーおじや)(ArrozCaldoso),5157134
+2005,cp,Spanish,Lentil Stew(レンズ豆の煮込みスペイン風),796820
+2006,cp,Spanish,Spanish Beef and Potato Stew(スペイン風肉じゃが),2927202
+2007,cp,Spanish,Spanish Squid guts Stew(イカのわた炒め煮スペイン風),5321985
+2008,cp,Spanish,Boiled Octopus garnished with paprika(ガリシア風タコ料理)(Pulpo gallego),1496616
+2009,cp,Spanish,Spanish Sandwich(スペイン風サンドイッチ)(Bocadillo),3376373
+2010,cp,Spanish,Spanish Garlic Soup(ソパ・デ・アホ)(Sopa de ajo),841805
+2011,cp,Spanish,Spanish Garlic Shrimp(ガンバス・アル・アヒージョ)(Gambas al ajillo),2524205
+2012,cp,Spanish,Spanish Garlic Shrimp(小エビのオイル煮)(Gambas al ajillo),58529
+2013,cp,Spanish,Steamed Mussels(ムール貝蒸し)(Mejillones al Vapor),1507894
+2014,cp,Spanish,Paella(スペインの味パエリア)(Paella),127071
+2015,cp,Spanish,Paella(本格パエリア)(Paella),3969001
+2016,cp,Spanish,Paella(本物のパエリア)(Paella),2100948
+2017,cp,Spanish,Spanish Salt Cod(鱈のオイル煮)(Bacalao al pil pil),1985088
+2018,cp,Spanish,Stew with Cod and Chickpea(タラとヒヨコ豆の煮込み)(Potaje),1507072
+2019,cp,Spanish,Leftover Bread(パン耳料理ミガス)(Migas),4355743
+2020,cp,Spanish,Leftover Bread(スペイン料理ミガス)(Migas),3425145
+2021,cp,Spanish,Spanish Soup Rice(魚介のカルドソ)(Caldoso),4394288
+2022,cp,Spanish,Lentil Soup(レンズ豆スープ),296864
+2023,cp,Spanish,Gachas(基本のガチャス)(Gachas),2072176
+2024,cp,Spanish,Spanish Garlic Shrimp(鶏肉と海老のアヒージョ)(Ajillo),2872472
+2025,cp,Spanish,Spanish Garlic Oyster(牡蠣のアヒージョ)(Ajillo),5147895
+
+# Vietnamese style(ベトナム風)
+3001,cp,Vietnamese,Vietnamese Spring Rolls(ベトナム風揚げ春巻き),5119637
+3002,cp,Vietnamese,Vietnamese Beef Salad(ベトナム風牛肉サラダ),5274020
+3003,cp,Vietnamese,Vietnamese Lemongrass Chicken BBQ(ベトナム風レモングラスチキンBBQ),5239748
+3004,cp,Vietnamese,Vietnamese Salad with Peanuts(ベトナム風きのこと鶏肉のピーナッツサラダ),5193279
+3005,cp,Vietnamese,Vietnamese Boiled Pork(ベトナム風豚角煮),5165171
+3006,cp,Vietnamese,Vietnamese Spring Rolls(ベトナム風生春巻き),5138464
+3007,cp,Vietnamese,Vietnamese Savory Fried Pancake(ベトナム風お好み焼き)(Bánh xèo),4934765
+3008,cp,Vietnamese,Vietnamese Fried Spring Rolls(ベトナム風揚げ春巻き)(Chả giò),4226493
+3009,cp,Vietnamese,Vietnamese Savory Fried Pancake(ベトナム風お好み焼き),4921238
+3010,cp,Vietnamese,Vietnamese Coriander Salad(野菜たっぷりベトナム風香菜サラダ),4560124
+3011,cp,Vietnamese,Vietnamese Lemongrass Chicken(チキンのレモングラス炒め),5484302
+3012,cp,Vietnamese,Vietnamese Rice Noodles(本格ベトナムフォー)(phở),5474582
+3013,cp,Vietnamese,Vietnamese Rice Noodles(簡単ベトナムのフォー),5215746
+3014,cp,Vietnamese,Vietnamese Sandwich(バインミー風サンド)(bánh mì),5155728
+3015,cp,Vietnamese,Vietnamese Spring Rolls(ベトナム出身者直伝生春巻き),4902979
+3016,cp,Vietnamese,Vietnamese Salad(ベトナム人参サラダ),4767227
+3017,cp,Vietnamese,Vietnamese Sandwich(パクチー香るバインミー),4545525
+3018,cp,Vietnamese,Vietnamese Lemongrass Pork(豚肉とレモングラスのグリル),4277757
+3019,cp,Vietnamese,Vietnamese Spring Rolls(生春巻きゴイクン)(Gỏi cuốn),4225112
+3020,cp,Vietnamese,Vietnamese Savory Fried Pancake(ベトナム料理バインセオ風)(Bánh xèo),5209163
+3021,cp,Vietnamese,Vietnamese Pancake(ベトナムお好み焼きバインセオ風卵焼き),2781131
+3022,cp,Vietnamese,Salad with Coriander(簡単パクチーサラダ),4663361
+3023,cp,Vietnamese,Vietnamese Salad(ベトナムサラダ),2395704
+3024,cp,Vietnamese,Vietnamese Chicken Noodle Soup(本格フォーガー)(Phở gà),2151622
+3025,cp,Vietnamese,Vietnamese Beef Noodle Soup(フォーボー)(phở bò),1650120
+
+# ---------- Testing Data(検証データ) ----------
+# Japanese-Style(和風)
+0501,cp,Japanese,きのこで和風パスタ,5263751
+0502,cp,Japanese,Japanese Pasta(簡単和風スパゲティ),5411353
+0503,cp,Japanese,Japanese Potato Salad(梅しそ和風ポテトサラダ),5563061
+0504,cp,Japanese,Tofu Hamburg(和風あんかけ豆腐ハンバーグ),5544952
+0505,cp,Japanese,Japanese Fried Rice(梅と大葉のさっぱり和風チャーハン),5176550
+0506,cp,Japanese,Japanese Potato Salad(梅としその和風ポテトサラダ),5447400
+0507,cp,Japanese,和風カルパッチョ,5346004
+0508,cp,Japanese,Teriyaki Hamburg(野菜たっぷり和風照り焼きハンバーグ),5492590
+0509,cp,Japanese,和風ハンバーグしそおろしポン酢ソース,5145305
+0510,cp,Japanese,Soy Sauce Pasta(さっぱり和風醤油パスタ),5394668
+
+# Chinese-Style(中華風)
+1501,cp,Chinese,Chinese Potato Noodle Salad(中華風春雨サラダ),5520910
+1502,cp,Chinese,Chinese Boiled Vegetables(油揚げと春菊の中華風胡麻和え),5560074
+1503,cp,Chinese,Chinese Spicy Boiled Vegetables(さっぱりピリ辛中華風おひたし),5554813
+1504,cp,Chinese,Chinese Fried(レタスとカニカマの中華風炒め),5552594
+1505,cp,Chinese,Chinese Dressing(中華風ドレッシング),5543415
+1506,cp,Chinese,Chinese Boiled Vegetables and Tuna(ほうれん草とツナの中華風白和え),5539463
+1507,cp,Chinese,Chinese Salad(豆豉とザーサイで大根中華風サラダ),5540394
+1508,cp,Chinese,Chinese Wing Tips(鶏手羽元のやわらか中華風),5524421
+1509,cp,Chinese,Chinese Stir-fried Vegetables(中華風野菜炒め),5524141
+1510,cp,Chinese,Chinese Steamed Rice(簡単美味しい中華風ちまき),5501849
+
+# Spanish-Style(スペイン風)
+2501,cp,Spanish,Spanish Style Fried Potatoes(スペイン風ポテトフライ),5557303
+2502,cp,Spanish,Spanish Garlic Soup(スペイン風タコとにんにくスープ),5523639
+2503,cp,Spanish,Spanish Octopus(タコのスペイン風),5336005
+2504,cp,Spanish,Spanish Rice Porridge(スペイン風雑炊(Caldoso),4800981
+2505,cp,Spanish,Spanish Salad(レンズ豆スプラウトのスペイン風サラダ),4706416
+2506,cp,Spanish,Spanish Potato Stew(スペイン風あさりとポテトの煮込み),4605034
+2507,cp,Spanish,Spanish Spareribs(スペイン風スペアリブのアヒージョ)(Cochinillo),4500360
+2508,cp,Spanish,Spanish Garlic Soup(スペイン風にんにくスープ)(Sopa de ajo),4232005
+2509,cp,Spanish,Spanish Tomato Baguette(スペイン風トマトバゲット)(Pan con tomate),4225104
+2510,cp,Spanish,Spanish Grilled Eggplant and Paprika(スペイン風焼き茄子とパプリカ)(Escalivada),4098891
+
+# Vietnamese style(ベトナム風)
+3501,cp,Vietnamese,Vietnamese Fried Spring Rolls(ベトナム風揚げ春巻き),192228
+3502,cp,Vietnamese,Vietnamese Pancake(ベトナム風お好み焼き),4264973
+3503,cp,Vietnamese,Vietnamese Sandwich(ベトナム風サンドイッチ),5098132
+3504,cp,Vietnamese,Vietnamese Salad(ベトナム風バジルサラダ),1144778
+3505,cp,Vietnamese,Vietnamese Dam Dam Noodles(ベトナム風塩担々麺),5258544
+3506,cp,Vietnamese,Vietnamese Voiled Pork(厚揚げと豚肉のベトナム風煮物),5518442
+3507,cp,Vietnamese,Vietnamese Chicken Noodles(ベトナム料理鶏肉と生姜のヌクマム炒め),2550631
+3508,cp,Vietnamese,Vietnamese Potato Noodle Salad(ベトナム風春雨サラダ),4086275
+3509,cp,Vietnamese,Vietnamese Salad(なすのベトナム風サラダ),3933004
+3510,cp,Vietnamese,Vietnamese Noodles(たっぷりニラのベトナム風フォー),2647257

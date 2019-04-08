@@ -1,0 +1,207 @@
+# Vegetables
+# 0001,きのこ,Mushroom --> v08_02:0047-0056
+0002,玉ねぎ,Onion
+0003,ほうれん草,Spinach
+0004,にんにく,Garlic
+0005,生姜,Ginger
+0006,きゃべつ,Cabbage
+0007,にんじん,Carrots
+0008,小松菜,Komatsuna
+0009,ねぎ,Leek
+0010,トマト,Tomato
+#
+#
+0013,もやし,Bean sprouts
+0014,ニラ,Chinese Chive
+0015,白菜,Chinese cabbage
+0016,大根,Japanese radish
+0017,水菜,Mizuna
+0018,春菊,Garland chrysanthemum
+0019,きゅうり,Cucumber
+0020,じゃがいも,Potato
+0021,ピーマン,Bell pepper
+0022,パプリカ,Paprika
+0023,木耳,Jew's ear
+0024,レタス,Lettuce
+#
+0026,こんにゃく,Konnyaku
+0027,里芋,Taro
+0028,ごぼう,Burdock
+0029,三つ葉,Mitsuba
+0030,長芋,Chinese yam
+0031,オクラ,Okra
+0032,れんこん,Lotus root
+0033,アボカド,Avocado
+0034,たけのこ,Bamboo shoot
+0035,かいわれ,Radish sprouts
+0036,搾菜,Zha cai
+0037,青梗菜,Qing geng cai
+0038,アスパラガス,Asparagus
+0039,豆苗,Pea sprouts
+0040,ししとう,Sweet green pepper
+0041,セロリ,Celery
+0042,なす,Eggplant
+0043,茗荷,Japanese ginger
+0044,ズッキーニ,Zucchini
+0045,エシャロット,Shallot
+#
+0047,ブロッコリー,Broccoli
+0048,とうもろこし,Corn
+0049,きのこ,Kinoko mashroom
+0050,しめじ,Shimeji mashroom
+0051,しいたけ,Shiitake mashroom
+0052,えのきだけ,Enoki mashroom
+0053,まいたけ,Maitake mashroom
+0054,エリンギ,Eringi mashroom
+0055,なめこ,Nameko mashroom
+0056,マッシュルーム,Mushroom
+
+
+# Fruits
+0061,レモン,Lemon
+#
+0063,ゆず,Yuzu
+0064,パイナップル,Pineapple
+0065,オレンジ,Orange
+0066,ココナツ,Coconut
+
+# Beans
+0101,厚揚げ,Fried tofu
+0102,豆腐,Tofu
+0103,豆乳,Soy milk
+0104,隠元豆,Green beans
+0105,絹さや,Snow pea
+0106,枝豆,Edamame
+0107,ひよこ豆,Chickpea
+0108,レンズ豆,Lentil
+
+# Seafood
+0201,ツナ,Tuna
+0202,イワシ蒲焼,Sardine Kabayaki
+0203,鮭,Salmon
+0204,帆立,Scallop
+0205,海老,Shrimp
+0206,烏賊,Squid
+0207,鱈,Codfish
+0208,カレイ,Flounder
+0209,さつま揚げ,Satsuma Age
+0210,はんぺん,Hanpen
+0211,マグロ,Raw tuna
+0212,ブリ,Yellowtail
+0213,タコ,Octopus
+0214,ムール貝,Mussels
+0215,あさり,Clams
+0216,アンチョビ,Anchovy
+0217,牡蠣,Oyster
+
+# Meat, Egg
+0301,ベーコン,Bacon
+0302,豚肉,Pork
+0303,たまご,Egg
+0304,鶏肉,Chicken
+0305,ハム,Ham
+0306,ソーセージ,Sausage
+0307,牛肉,Beef
+0308,うずらの卵,Quail egg
+0309,チョリソ,Chorizo
+
+# Seaweed
+0331,海苔,Nori
+0332,わかめ,Wakame
+
+# Dairy products
+0361,牛乳,Milk
+0362,バター,Butter
+0363,チーズ,Cheese
+0364,生クリーム,Dairy cream
+
+# Noodle
+0401,春雨,Potato noodle
+
+# Grain
+0421,ライスペーパー,Rice paper
+0422,ご飯,Rice
+0423,大麦,Barley
+# 0424,バゲット,Baguette --> stopwords (v08_02)
+
+# Seasoning, Powdered food
+0701,オリーブオイル,Olive oil
+0702,ごま油,Sesame oil
+0703,めんつゆ,Noodle soup
+0704,和風だし,Japanese stock
+0705,醤油,Soy sauce
+0706,味噌,Miso
+0707,日本酒,Sake
+0708,みりん,Sweet Sake
+0709,鰹節,Dried bonito
+0710,胡麻,Sesame
+0711,ぽん酢,Ponzu vinegar
+0712,酢,Vinegar
+# 0713,片栗粉,Starch --> stopwords (v08_02)
+0714,小麦粉,Flour
+0715,コンソメ,Consomme
+0716,中華だし,Chinese stock
+0717,鶏がらスープ,Chicken stock
+0718,オイスターソース,Oyster sauce
+0719,紹興酒,Shaoxing wine
+0720,ナンプラー,Fish sauce
+0721,白ワイン,White wine
+0722,赤ワイン,Red wine
+# 0723,パプリカパウダー --> 0022
+0724,ワインビネガー,Wine vinegar
+0725,塩麹,Salted koji
+0726,チリソース,Chili sauce
+0727,サテトム,Satetomu
+0728,蜂蜜,Honey
+0729,米粉,Rice flour
+0730,米油,Rice bran oil
+0731,すき焼きのタレ,Sukiyaki stock
+0732,マヨネーズ,Mayonnaise
+0733,ケチャップ,Ketchup
+0734,コチュジャン,Gochujang
+0735,辣油,Gochujang
+0736,牛骨,Beef bones
+0737,フライドオニオン,Fried onion
+0738,シラチャーソース,Sriracha sauce
+0739,ハラペーニョ,Jalapeno pepper
+0740,シェリー酒,Sherry
+0741,ブラバスソース,Brava sauce
+0742,お魚カルドスープ,Caldo de Pescado
+
+# Spice
+0751,わさび,Wasabi
+0752,ゆず胡椒,Yuzu pepper
+0753,大根おろし,Grated daikon
+0754,花椒,Sichuan pepper
+0755,豆板醤,Douban jiang
+0756,唐辛子,Red pepper
+0757,胡椒,Pepper
+0758,ターメリック,Turmeric
+0759,梅干,Pickled plum
+0760,山椒,Japanese pepper
+0761,豆豉醤,Douchi jiang
+0762,甜面醤,Tianmian jiang
+0763,XO醤,XO jiang
+0764,八角,Star anise
+0765,シナモン,Cinnammon
+0766,クローブ,Clove
+0767,カルダモン,Cardamom
+0768,海鮮醬,Haixian jiang
+0769,五香粉,Wuxiang fen
+0770,サフラン,Saffron
+
+# Herb
+0781,薬味ねぎ,Chopped leeks
+0782,パセリ,Parsley
+0783,ローリエ,Laurel
+0784,オレガノ,Oregano
+0785,香菜,Coriander
+0786,レモングラス,Lemongrass
+0787,バジル,Thai basil
+0788,スペアミント,Speamint
+0789,フェンネル,Fennel
+0790,大葉,Macrophyll
+
+# Nuts
+0801,ナッツ,Nuts
+0802,ココナッツミルク,Coconut milk
