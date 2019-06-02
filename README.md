@@ -11,6 +11,10 @@ Explore the determinant or essential ingredients of culture’s cuisine, for exa
 Extract only list of ingredients from cuisine recipes, create BOW(Bag of Words), and create model using machine learning. Originally, it seems necessary to have various characteristics such as quantity of ingredients or instructions, but in this project, it is also aimed at beginner of AI to learn its programming, so we focused on making it as simple as possible.
 <br>
 To predict culture or country, we examine what kind of ingredients are more important features.
+
+![ToFS Pipeline](./doc/tofs_pipeline.png)
+
+
 ## Sample
 ![feature importance](./doc/train_feature_dense_r2.png)
 
